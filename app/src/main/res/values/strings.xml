@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Busucsal</string>
+    <string name="app_imagem">ImagemPrincipal</string>
+    <string name="segundasexta">Segunda a Sexta</string>
+    <string name="sab">Sábado</string>
+
+</resources>
